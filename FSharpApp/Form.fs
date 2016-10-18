@@ -22,7 +22,11 @@ module Form =
             x <- x + 20
             let t = new TextBox()
             t.MaxLength <- 1
-            t.TextAlign <- HorizontalAlignment.Center
+            t.TextAlign <- HorizontalAlignment.Left
+
+
+
+
 
             t.TextChanged.AddHandler(new System.EventHandler 
                 (fun s e ->
