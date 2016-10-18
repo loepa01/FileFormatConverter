@@ -1,0 +1,8 @@
+c:\users\jiral\documents\visual studio 2015\Projects\FSharpApp\bin\Debug\FSharpApp.exe.config
+c:\users\jiral\documents\visual studio 2015\Projects\FSharpApp\bin\Debug\FSharpApp.XML
+c:\users\jiral\documents\visual studio 2015\Projects\FSharpApp\bin\Debug\FSharpApp.exe
+c:\users\jiral\documents\visual studio 2015\Projects\FSharpApp\bin\Debug\FSharpApp.pdb
+c:\users\jiral\documents\visual studio 2015\Projects\FSharpApp\bin\Debug\FSharp.Core.dll
+c:\users\jiral\documents\visual studio 2015\Projects\FSharpApp\bin\Debug\FSharp.Core.xml
+c:\users\jiral\documents\visual studio 2015\Projects\FSharpApp\obj\Debug\FSharpApp.exe
+c:\users\jiral\documents\visual studio 2015\Projects\FSharpApp\obj\Debug\FSharpApp.pdb
